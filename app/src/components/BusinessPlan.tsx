@@ -45,7 +45,7 @@ export default function BusinessPlan() {
                     <div className="lg:col-span-3 space-y-6">
                         <h3 className="text-2xl font-medium text-white mb-4 border-b border-neutral-800 pb-4">Estrategia: "Patagonia Creativa y Valor Compartido"</h3>
                         <p className="text-sm text-neutral-400">
-                            La consigna estratégica es vender el territorio de Aysén como un plató premium, ofreciendo reportabilidad a sectores clave bajo esquemas de incentivos tributarios.
+                            La consigna estratégica es poner en valor el patrimonio natural de Aysén como un escenario de filmación sustentable y de clase mundial, ofreciendo reportabilidad de impacto positivo a sectores clave bajo esquemas de incentivos tributarios.
                         </p>
                         <div className="space-y-4">
                             <div className="flex gap-4 p-4 rounded-xl border border-neutral-800 bg-[#050505]">
