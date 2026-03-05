@@ -15,7 +15,7 @@ export default function Hero() {
             <div className="z-10 max-w-4xl mx-auto space-y-8 mt-10">
                 <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-emerald-900/50 bg-emerald-950/20 text-emerald-400 text-xs font-mono uppercase tracking-widest backdrop-blur-sm">
                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-                    ECOSISTEMA DE DESARROLLO 2026
+                    INFORME CORPORATIVO • FLOR Y TRUCO 2026
                 </div>
 
                 <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-white drop-shadow-2xl">
